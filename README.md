@@ -33,13 +33,3 @@ This repository contains my **daily solutions to Data Structures and Algorithms 
 
 Feel free to use, learn, or contribute.
 Happy Coding! 💻🚀
-
----
-
-Let me know if you'd like to include:
-
-* Leetcode/GFG/Codeforces problem links
-* Table of contents
-* Java version/IDE used
-* Contribution or License section
-  and I’ll tailor it for that.
